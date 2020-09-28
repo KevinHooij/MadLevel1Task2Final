@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">MadLevel1Task2Final</string>
+    <string name="Upper_Text">Conjunction (AND)</string>
+    <string name="A_Text">A</string>
+    <string name="B_Text">B</string>
+    <string name="T_Text">T</string>
+    <string name="F_Text">F</string>
+    <string name="AB_Text">A^B</string>
+    <string name="Submit_Text">Submit</string>
 </resources>
