@@ -7,4 +7,7 @@
     <string name="F_Text">F</string>
     <string name="AB_Text">A^B</string>
     <string name="Submit_Text">Submit</string>
+
+    <string name="Correct">You answered all questions correctly!</string>
+    <string name="Incorrect">Correct answers: %d</string>
 </resources>
